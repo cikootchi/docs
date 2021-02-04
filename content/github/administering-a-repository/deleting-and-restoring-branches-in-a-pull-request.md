@@ -1,4 +1,4 @@
----
+Ji]---
 title: Deleting and restoring branches in a pull request
 intro: 'If you have write access in a repository, you can delete branches that are associated with closed or merged pull requests. You cannot delete branches that are associated with open pull requests.'
 redirect_from:
